@@ -1,0 +1,24 @@
+{
+	"files": [
+		{
+			"path": "src/contexts/auth.tsx",
+			"bookmarks": [
+				{
+					"line": 11,
+					"column": 22,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "src/componentes/MessageList/styles.module.scss",
+			"bookmarks": [
+				{
+					"line": 38,
+					"column": 34,
+					"label": ""
+				}
+			]
+		}
+	]
+}
