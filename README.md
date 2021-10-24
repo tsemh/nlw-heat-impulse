@@ -18,7 +18,7 @@ performatic tool.
 - Node</br>
 - Elixer</br>
 
-### Back-End
+### Front-End
 
 🛠The Front-End was built using:
 
